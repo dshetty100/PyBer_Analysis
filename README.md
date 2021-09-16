@@ -30,8 +30,6 @@ The analysis results for the total fare by city type is shown in the graph below
 
 ## Summary
 The results show that Pyber can improve the disparity in total fare among city type by doing the following:  
- - providing more access to ride sharing services in the rural neighbourhoods
- - Providing affordable average fare per ride to underserved neighbourhoods
- - Increasing the number of rides which will increase the total fare and bring down the average fare per ride and the average fare per driver.
- - Increasing the number of drivers which will bring down the average fare per driver in rural cities.
- - and, by 
+ - providing more access to ride sharing services in the rural neighbourhoods.
+ - Providing affordable average fare per ride to underserved neighbourhoods.
+ - and, increasing the number of rides which will increase the total fare and bring down the average fare per ride and the average fare per driver. 
