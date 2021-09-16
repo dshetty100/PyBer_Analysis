@@ -29,3 +29,6 @@ The analysis results for the total fare by city type is shown in the graph below
 - It is observed that total fare for urban cities are the highest and those for the rural cities are the lowest. 
 
 ## Summary
+
+The results show that Pyber can improve access to ride sharing services and determine the affordability to underserved neighbourhoods by doing the following:
+ - 
