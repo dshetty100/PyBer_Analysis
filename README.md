@@ -15,4 +15,9 @@ The analysis was performed using CSV files, city_data.csv, and ride_data.csv, wh
 
 ## Results
 
+![Figure1](/Images/Ride_Summary.PNG)
+
+
+![Figure1](/Resources/District_Summary.PNG)
+
 ## Summary
