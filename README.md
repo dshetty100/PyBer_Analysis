@@ -14,10 +14,18 @@ The complete code for the analysis can be found here, http://github.com/dshetty1
 
 
 ## Results
+The analysis results for the total rides undertaken, total drivers employed, total ride fares, average fare per ride, and the average fare per driver 
+are as shown in the table below.
 
 ![Figure1](/Images/Ride_Summary.PNG)
 
+- It is observed that the total rides, total drivers, and the total fares, are the highest for urban cities and lowest for the rural cities.
+- The average fare per ride and average fare per driver is observed to be the highest for the rural cities and lowest for the urban cities. 
+
+The analysis results for the total fare by city type is shown in the graph below. The result is for the ride undertaken from January, 2019 to early May, 2019.
 
 ![Figure1](/analysis/PyBer_fare_summary.png)
+
+- It is observed that total fare for urban cities are the highest and those for the rural cities are the lowest. 
 
 ## Summary
