@@ -9,7 +9,12 @@ month of the year (from January, 2019 to early May, 2019) for various city type.
 
 The analysis will help Pyber in improving access to ride sharing services and determining the affordability to underserved neighbourhoods.
 
+The analysis was performed using CSV files, city_data.csv, and ride_data.csv, which can be found in the Resources folder. The complete code for the analysis can be found here, http://github.com/dshetty100/PyBerAnalysis
+
+
 Create a bubble chart that showcases the average fare versus the total number of rides with 
+
+
 bubble size based on the total number of drivers for each city type, including urban, suburban, 
 and rural.
 
