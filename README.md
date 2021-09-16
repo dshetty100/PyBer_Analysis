@@ -18,6 +18,6 @@ The analysis was performed using CSV files, city_data.csv, and ride_data.csv, wh
 ![Figure1](/Images/Ride_Summary.PNG)
 
 
-![Figure1](/analysis/PyBer_fare_summary.PNG)
+![Figure1](/analysis/PyBer_fare_summary.png)
 
 ## Summary
